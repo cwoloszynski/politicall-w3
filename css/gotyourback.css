@@ -1,0 +1,49 @@
+@media(min-width:768px) {
+    .intro {
+        height: 100%;
+        padding: 0;
+    }
+
+    .intro .intro-body .brand-heading {
+        font-size: 72px;
+    }
+
+    .intro .intro-body .welcome-heading {
+        font-size: 36px;
+    }
+
+    .intro .intro-body .intro-text {
+        font-size: 26px;
+    }
+}
+
+.copyright-text {
+    text-align: center;
+    font-size: 14px;
+}
+
+.tinted {
+    color: #f4ab1b;
+}
+
+/* 
+ * This style makes sure that wrapped bullet lists indent and keep the bullet outside of the text.
+ * It also removes any padding on these lists to ensure that the layout using  class:vertical-align (below)
+ * don't have unnecessary margin padding above or below the bullet list.
+ */
+ul.bullet {
+    list-style-position:outside;
+    margin: 0;
+}
+
+
+/* 
+ * This style supports rows that center each column (image in one column and list of bullets in next column) in each section.
+ * 
+ * This proposed solution came from: http://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3 
+ */
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}

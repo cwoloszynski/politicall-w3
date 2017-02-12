@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+          "details": [
+	      {
+		"appID": "936EKNL558.us.handheldmedia.GotYourBack",
+		"paths": ["/app*"]
+	      }
+	   ]
+    }
+}
