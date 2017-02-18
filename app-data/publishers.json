@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"displayName": "People for Bernie Sanders", 
+		"displayDetail": "Democratic Socialist Party", 
+		"imageURL": "https://www.politi-call.org//app-images/Bernie.png"
+	},
+	{
+		"id": 2,
+		"displayName": "ACLU", 
+		"displayDetail": "American Civil Liberties Union",
+		"imageURL": "https://www.politi-call.org//app-images/ACLU.png"
+	},
+	{
+		"id": 3,
+		"displayName": "MoveOn.org", 
+		"displayDetail": "Democracy In Action",
+		"imageURL": "https://www.politi-call.org//app-images/MoveOn.png"
+	}
+]
