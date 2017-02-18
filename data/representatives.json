@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"phoneNumber": "703-286-9461",
+		"presentationName": "Mr. Mark Warner",
+		"affiliation": "Republican, US Senate",
+		"externalURL": "http://testURL",
+		"photoURL": "https://www.politi-call.org/photos/MarkWarner.jpg",
+		"streetOne": "1 Main street",
+		"streetTwo": "",
+		"city": "Somewhereville",
+		"state": "VA",
+		"zipcode": "12345",
+		"emailAddress": "unknown@acme.org",
+		"facebookURL": "http://facebook.com/unknown",
+		"twitterURL": "http://twitter.com/tweetstorm"
+	},
+	{
+	 	"id": 2,
+		"phoneNumber": "703-286-9461",
+		"presentationName": "Mr. Tim Kane",
+		"affiliation": "Democrat, US Senate",
+		"externalURL": "http://testURL",
+		"photoURL": "https://www.politi-call.org/photos/TimKane.jpg",
+		"streetOne": "2 Mulberry Ave",
+		"streetTwo": "PO Box 123",
+		"city": "Richmond",
+		"state": "VA",
+		"zipcode": "54321",
+		"emailAddress": "unknown@acme.org",
+		"facebookURL": "http://facebook.com/unknown",
+		"twitterURL": "http://twitter.com/tweetstorm"
+	}
+]
