@@ -7,8 +7,8 @@
       "globalRepresentatives": [],
       "localRepresentatives":[1],
       "specialGroups": [100],
-      "cycleStartDate": null,
-      "cycleEndDate": null,
+      "cycleStartDate": "2017-02-14 8:00:00",
+      "cycleEndDate": "2017-12-31 22:00:00",
       "talkingPoints": "Hi, my name is *NAME* and I’m a constituent from *CITY, ZIP*.\n\nI’m calling today because I believe in the separation of church and state, and am strongly opposed to any attempts to dismantle the Johnson Amendment. I expect *Senator/Rep's Name* to take a strong stand against each and every attack on the Johnson Amendment.\n\nThank you for your hard work answering the phones.\n\n**If leaving a voicemail**: please leave your full street address to ensure your call is tallied\n"
    },
    {
@@ -19,8 +19,8 @@
       "globalRepresentatives": [],
       "localRepresentatives":[1,2],
       "specialGroups": [],
-      "cycleStartDate": null,
-      "cycleEndDate": null,      
+      "cycleStartDate": "2017-02-14 8:00:00",
+      "cycleEndDate": "2017-12-31 22:00:00",      
       "talkingPoints": "Hi, my name is *NAME* and I’m a constituent from *CITY, ZIP*.\n\nI’m calling to express my support for Congresswoman Murphy’s bill, H.R. 804, because it protects the National Security Council from political interference. Our national security should not be threatened by partisan politics.\n\nThank you for your hard work answering the phones.\n\n**If leaving a voicemail**: please leave your full street address to ensure your call is tallied\n"   
    },
    {
@@ -31,8 +31,8 @@
       "globalRepresentatives": [],
       "localRepresentatives": [1,2,3],
       "specialGroups": [],
-      "cycleStartDate": null,
-      "cycleEndDate": null,
+      "cycleStartDate": "2017-02-14 8:00:00",
+      "cycleEndDate": "2017-12-31 22:00:00",
       "talkingPoints": "Hi, my name is *NAME* and I’m a constituent from *CITY, ZIP*.\n\nI'm calling today to oppose HR 637 and any other bill that moves us backward in the fight against climate change. We cannot continue to ignore the clear science that climate change is real and dangerous.\n\nThank you for your hard work answering the phones.\n\n**If leaving a voicemail**: please leave your full street address to ensure your call is tallied\n"
    }
 ]   
