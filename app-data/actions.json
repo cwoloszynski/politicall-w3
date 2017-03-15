@@ -22,7 +22,7 @@
        "allCongress": true,
       "specialGroups": [],
       "cycleStartDate": "2017-02-14 8:00:00",
-      "cycleEndDate": "2017-12-31 22:00:00",      
+      "cycleEndDate": "2017-02-28 22:00:00",      
       "talkingPoints": "Hi, my name is *NAME* and I’m a constituent from *CITY, ZIP*.\n\nI’m calling to express my support for Congresswoman Murphy’s bill, H.R. 804, because it protects the National Security Council from political interference. Our national security should not be threatened by partisan politics.\n\nThank you for your hard work answering the phones.\n\n**If leaving a voicemail**: please leave your full street address to ensure your call is tallied\n"   
    },
    {
@@ -37,5 +37,18 @@
       "cycleStartDate": "2017-02-14 8:00:00",
       "cycleEndDate": "2017-12-31 22:00:00",
       "talkingPoints": "Hi, my name is *NAME* and I’m a constituent from *CITY, ZIP*.\n\nI'm calling today to oppose HR 637 and any other bill that moves us backward in the fight against climate change. We cannot continue to ignore the clear science that climate change is real and dangerous.\n\nThank you for your hard work answering the phones.\n\n**If leaving a voicemail**: please leave your full street address to ensure your call is tallied\n"
-   }
+   },
+   {
+      "id": 4,
+      "publisherId": 3,
+      "headline": "Block TrumpCare in the Senate",
+      "details": "As Donald Trump and Republican leaders race to push through Congress the bill to repeal the Affordable Care Act, your member of Congress is shaping up to be one of the pivotal votes.\n\nThe Republican bill will overhaul health care as we know it, stripping health care from millions of Americans, raising costs for the middle class and elderly, defunding Planned Parenthood, and weakening existing protections—all while giving tax breaks to millionaires and health care CEOs. The nonpartisan Congressional Budget Office just determined that 14 million Americans would lose coverage immediately under the bill and 24 million more Americans would be uninsured in just 10 years.\n\nWe can stop Trumpcare, but we have little time because the Republican strategy is to rush the bill through at lightning speed before people really understand how damaging it will be.",
+      "globalRepresentatives": [],
+       "localRepresentatives":[],
+       "allCongress": true,
+      "specialGroups": [],
+      "cycleStartDate": "2017-03-14 8:00:00",
+      "cycleEndDate": "2017-04-21 22:00:00",      
+   },
+
 ]   
