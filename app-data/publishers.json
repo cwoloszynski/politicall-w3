@@ -16,5 +16,11 @@
 		"displayName": "MoveOn.org", 
 		"displayDetail": "Democracy In Action",
 		"imageURL": "https://www.politi-call.org/app-images/MoveOn.png"
+	},
+	{
+		"id": 4,
+		"displayName": "AARP", 
+		"displayDetail": "AARP Real Possibilities",
+		"imageURL": "https://www.politi-call.org/app-images/AARP.png"
 	}
 ]
