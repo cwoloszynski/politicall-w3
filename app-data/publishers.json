@@ -22,5 +22,11 @@
 		"displayName": "AARP", 
 		"displayDetail": "AARP Real Possibilities",
 		"imageURL": "https://www.politi-call.org/app-images/AARP.png"
+	},
+	{
+		"id": 5,
+		"displayName": "Stand Up America", 
+		"displayDetail": "Resist Trump's Dangerous Agenda",
+		"imageURL": "https://www.politi-call.org/app-images/standup.png"
 	}
 ]
